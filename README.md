@@ -4,7 +4,6 @@ This repository contains code, datasets, and documentation for various machine l
 
 ## Structure
 * `/datasets`: Contains datasets used for model training and evaluation.
-* `/notebooks`: Jupyter notebooks for detailed experiments and exploratory data analysis (EDA).
   
 ## Key Features
 **Data Preprocessing:** Cleaning, Transforming, and Scaling data.
@@ -14,6 +13,3 @@ This repository contains code, datasets, and documentation for various machine l
 **Model Evaluation:** Metrics such as accuracy, precision, recall, F1-score, and AUC-ROC.
 
 **Visualization:** Plotting data insights, learning curves, and model performance.
-
-## Usage
-Explore the datasets and preprocessing steps in `/datasets` and `/notebooks`.
